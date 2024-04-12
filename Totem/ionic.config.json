@@ -1,0 +1,7 @@
+{
+  "name": "Totem",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
